@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+    font-family: Arial;
+}
+
+label {
+    display: block;
+
+}
+a {
+    display: block;
+    text-decoration: none;
+    background: black;
+    color: white;
+    margin-top: 20px;
+    margin-left: 18px;
+    width: fit-content;
+    border-radius: 10px
+}
